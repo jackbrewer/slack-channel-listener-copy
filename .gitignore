@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Environment variables (sensitive data)
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific files
+.vscode/
